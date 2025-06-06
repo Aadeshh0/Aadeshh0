@@ -17,7 +17,7 @@ AI/ML Engineer | Building with LLMs, Data & Purpose
 
 - 👯 I’m looking to collaborate on **LLM-based apps, real-world ML systems, and impactful research**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@aadeshgupta00)
+<!-- - 📝 I regularly write articles on [Medium](https://medium.com/@aadeshgupta00) -->
 
 - 📫 How to reach me [Mail](mailto:aadeshgupta00@gmail.com) | [Linkedin](https://www.linkedin.com/in/-aadesh-gupta/)
   
