@@ -40,12 +40,15 @@ AI/ML Engineer | Building with LLMs, Data & Purpose
   <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>  
+
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img alt="NLP" src="https://img.shields.io/badge/NLP-%236f42c1.svg?style=for-the-badge&logo=ai&logoColor=white"/>
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-%2300b4d8.svg?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img alt="LLMs" src="https://img.shields.io/badge/LLMs-%23000000.svg?style=for-the-badge&logo=OpenAI&logoColor=white"/>
 <!--   <br> -->
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/> 
   <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
 <!--   <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"> -->
 <!--   <br> -->
   <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
@@ -58,6 +61,10 @@ AI/ML Engineer | Building with LLMs, Data & Purpose
   <img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>   
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <img alt="NLP" src="https://img.shields.io/badge/NLP-%236f42c1.svg?style=for-the-badge&logo=ai&logoColor=white"/>
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-%2300b4d8.svg?style=for-the-badge&logo=databricks&logoColor=white"/>
+
 </p>
 
   
