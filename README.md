@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@aadeshgupta00)
 
-- 📫 How to reach me [Mail](aadeshgupta00@gmail.com)
+- 📫 How to reach me [Mail](mailto:aadeshgupta00@gmail.com)
   
 - 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1mbPXRXxuZ4_i2qLv_Z-uiD2RACmYMJCi/view?usp=sharing)
 
