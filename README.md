@@ -1,25 +1,21 @@
 ## Hi there 👋 I'm Aadesh Gupta
-
 <!-- ### AI/ML Engineer | Building with LLMs, Data & Purpose -->
-
-```
-AI/ML Engineer | Building with LLMs, Data & Purpose
-```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Building+RAG+agents;Exploring+LLMs+%26+NLP;Fine+tuning+AI++%26+ML+Models+For+Social+Impact)](https://github.com/aadeshgupta00)
 ---
 
 #### About Me
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadeshh0&label=Profile%20views&color=0e75b6&style=flat" alt="aadeshh0" /> </p>
 
-- 🔭 I’m currently working on **AI-powered RAG agents, deep learning pipelines & ML product prototypes**
+- 🔭 I’m currently learning & working on **AI-powered RAG agents, Advanced retrieval techniques, & ML product prototypes**
 
-- 🌱 I’m currently learning **Advanced retrieval techniques, multi-modal AI, and AI for social good**
+<!-- - 🌱 I’m currently learning **Advanced retrieval techniques, multi-modal AI, and AI for social good** -->
 
 - 👯 I’m looking to collaborate on **LLM-based apps, real-world ML systems, and impactful research**
 
 <!-- - 📝 I regularly write articles on [Medium](https://medium.com/@aadeshgupta00) -->
 
-- 📫 How to reach me [Mail](mailto:aadeshgupta00@gmail.com) | [Linkedin](https://www.linkedin.com/in/-aadesh-gupta/)
+<!-- - 📫 How to reach me [Mail](mailto:aadeshgupta00@gmail.com) | [Linkedin](https://www.linkedin.com/in/-aadesh-gupta/) -->
   
 - 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1mbPXRXxuZ4_i2qLv_Z-uiD2RACmYMJCi/view?usp=sharing)
 
