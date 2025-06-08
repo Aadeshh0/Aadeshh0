@@ -8,7 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadeshh0&label=Profile%20views&color=0e75b6&style=flat" alt="aadeshh0" /> </p>
 
-- 🔭 I’m currently learning & working on **AI-powered RAG agents, Advanced retrieval techniques, & ML product prototypes**
+Hi I'm an AIML Engineer, I enjoy building models or ai agents that deliever data driven insights to make some impact or real world problems. 
+- 🔭 I’m currently exploring AI-powered RAG agents, advanced retrieval techniques, and prototyping ML-driven products
 
 <!-- - 🌱 I’m currently learning **Advanced retrieval techniques, multi-modal AI, and AI for social good** -->
 
@@ -18,7 +19,7 @@
 
 <!-- - 📫 How to reach me [Mail](mailto:aadeshgupta00@gmail.com) | [Linkedin](https://www.linkedin.com/in/-aadesh-gupta/) -->
   
-- 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1mbPXRXxuZ4_i2qLv_Z-uiD2RACmYMJCi/view?usp=sharing)
+- 📄 Want to know more about my background and experience? [Check out my resume](https://drive.google.com/file/d/1mbPXRXxuZ4_i2qLv_Z-uiD2RACmYMJCi/view?usp=sharing)
 
 ---
 
