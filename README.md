@@ -9,11 +9,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadeshh0&label=Profile%20views&color=0e75b6&style=flat" alt="aadeshh0" /> </p>
 
 Hi I'm an AIML Engineer, I enjoy building models or ai agents that deliever data driven insights to make some impact or real world problems. 
-- 🔭 I’m currently exploring AI-powered RAG agents, advanced retrieval techniques, and prototyping ML-driven products
+- 🔭 I’m currently learning AI-powered RAG agents, Fine-tuning AI models, FastAPI, HuggingFace
 
 <!-- - 🌱 I’m currently learning **Advanced retrieval techniques, multi-modal AI, and AI for social good** -->
 
-- 👯 I’m looking to collaborate on **LLM-based apps, real-world ML systems, and impactful research**
+<!-- - 👯 I’m looking to collaborate on **LLM-based apps, real-world ML systems, and impactful research** --> 
 
 <!-- - 📝 I regularly write articles on [Medium](https://medium.com/@aadeshgupta00) -->
 
