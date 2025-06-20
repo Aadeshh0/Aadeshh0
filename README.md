@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadeshh0&label=Profile%20views&color=0e75b6&style=flat" alt="aadeshh0" /> </p>
 
-Hi I'm an AIML Engineer, I enjoy building models or ai agents that deliever data driven insights to make some impact or real world problems. 
+Hi I'm an AIML Engineer, I enjoy building ai agents that deliever data driven insights to make some impact or real world problems. I love working on data and gather insights and build impactful products.  
 - 🔭 I’m currently learning AI-powered RAG agents, Fine-tuning AI models, FastAPI, HuggingFace
 
 <!-- - 🌱 I’m currently learning **Advanced retrieval techniques, multi-modal AI, and AI for social good** -->
