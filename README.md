@@ -1,8 +1,10 @@
 ## Hi there 👋 I'm Aadesh Gupta
 <!-- ### AI/ML Engineer | Building with LLMs, Data & Purpose -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Building+RAG+agents;Exploring+LLMs+%26+NLP;Fine+tuning+AI++%26+ML+Models+For+Social+Impact)](https://github.com/aadeshgupta00) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9477BA&lines=Building+RAG+agents;Exploring+LLMs+%26+NLP;Fine+tuning+AI++%26+ML+Models)](https://github.com/aadeshgupta00)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9A40C7&lines=Building+Backend+Systems;Exploring+LLMs;Fine+tuning+AI++%26+ML+Models;UI+Designer)](https://github.com/aadeshgupta00)
 ---
+
+
 
 #### About Me
 
