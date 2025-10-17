@@ -21,8 +21,7 @@ Hi I'm an AIML Engineer, I enjoy building ai agents that deliever data driven in
 
 <!-- - 📫 How to reach me [Mail](mailto:aadeshgupta00@gmail.com) | [Linkedin](https://www.linkedin.com/in/-aadesh-gupta/) -->
   
-- 📄 Want to know more about my background and experience? [Check out my resume](https://drive.google.com/file/d/1mbPXRXxuZ4_i2qLv_Z-uiD2RACmYMJCi/view?usp=sharing)
-
+- 📄 Want to know more about my background and experience? [Check out my resume](https://drive.google.com/file/d/1eVuqs7CGthv9Bp8LYUgmAzg94DZMbFIg/view?usp=sharing)
 ---
 
 #### Techstack
